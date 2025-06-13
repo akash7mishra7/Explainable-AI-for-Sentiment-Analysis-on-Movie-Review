@@ -3,8 +3,9 @@ This project focuses on sentiment classification using ensemble machine learning
 
 📂 Contents
 
-ensemble-Final.ipynb: Implements various models (LSTM, GRU, BERT, etc.) and combines them using a stacking ensemble to improve accuracy.
-XAI-Final.ipynb: Applies LIME and SHAP for model interpretability and explanation.
+* ensemble-Final.ipynb: Implements various models (LSTM, GRU, BERT, etc.) and combines them using a stacking ensemble to improve accuracy.
+
+* XAI-Final.ipynb: Applies LIME and SHAP for model interpretability and explanation.
 
 ⚙️ Tech Stack
 
