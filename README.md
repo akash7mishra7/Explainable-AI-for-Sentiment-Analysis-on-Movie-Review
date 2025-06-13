@@ -10,10 +10,10 @@ This project focuses on sentiment classification using ensemble machine learning
 ⚙️ Tech Stack
 
 
-Python, TensorFlow, scikit-learn
-Hugging Face Transformers
-SHAP, LIME
-Jupyter Notebook
+* Python, TensorFlow, scikit-learn
+* Hugging Face Transformers
+* SHAP, LIME
+* Jupyter Notebook
 
 🚀 Goal
 
